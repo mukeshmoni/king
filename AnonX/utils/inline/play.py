@@ -61,7 +61,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✯ 𝐎 ᴡ ɴ ᴇ ʀ ✯", callback_data=f"https://t.me/Kisssmee27"
+                text="✯ � ɪ ɴ ɢ ✯", callback_data=f"https://t.me/Kisssmee27"
             )
         ],
     ]
@@ -118,7 +118,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✯ 𝐎 ᴡ ɴ ᴇ ʀ  ✯", callback_data=f"https://t.me/Kisssmee27"
+                text="✯ � ɪ ɴ ɢ  ✯", callback_data=f"https://t.me/Kisssmee27"
             )
         ],
     ]
@@ -147,7 +147,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✯ 𝐎 ᴡ ɴ ᴇ ʀ ✯", callback_data=f"https://t.me/Kisssmee27"
+                text="✯ � ɪ ɴ ɢ ✯", callback_data=f"https://t.me/Kisssmee27"
             )
         ],
     ]
@@ -173,7 +173,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✯ 𝐎 ᴡ ɴ ᴇ ʀ ✯", callback_data=f"close"
+                text="✯ � ɪ ɴ ɢ ✯", callback_data=f"https://t.me/Kisssmee27"
             )
         ],
     ]
@@ -297,7 +297,7 @@ close_keyboard = InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        text="✯ ᴄʟᴏsᴇ ✯", callback_data="https://t.me/Kisssmee27"
+                        text="✯ � ɪ ɴ ɢ ✯", callback_data="https://t.me/Kisssmee27"
                     )
                 ]    
             ]
@@ -328,7 +328,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✯ 𝐎 ᴡ ɴ ᴇ ʀ  ✯", callback_data=f"https://t.me/Kisssmee27"
+                text="✯ � ɪ ɴ ɢ  ✯", callback_data=f"https://t.me/Kisssmee27"
             )
         ],
     ]
